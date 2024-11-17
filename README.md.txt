@@ -14,6 +14,9 @@ Pneumonia_Xray_Prediction/
 ├── Pneumonia_Xray_Prediction.ipynb # Jupyter Notebook 
 ├── model.h5 # Trained model
 
+## Dataset
+Download the dataset from [Google Drive](https://drive.google.com/drive/folders/1wRxA7Kqug_3F6_-RABcHII3YjAnWeCpY?usp=sharing) and place it in the root directory of the project.
+
 ## Usage
 1. Clone the repository:
    ```bash
